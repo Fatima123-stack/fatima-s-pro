@@ -1,4 +1,4 @@
 # fatima-s-pro
 My first Git Repository
 <br>
-Author-Fatima khan (Fatimra)
+Author-Fatima khan (Fatimra khan)
